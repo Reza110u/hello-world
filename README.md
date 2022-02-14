@@ -1,2 +1,5 @@
-# hello-world
-efiifeh
+#include<iostream>
+  using namespace std;
+  main(){
+   cout<<"hello";
+  }
